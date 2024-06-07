@@ -1,0 +1,1 @@
+It is a dice game made with react!
